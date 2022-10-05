@@ -1,19 +1,16 @@
-## Getting Started
+A basic Java program that prints the bill for the selected pizza. 
+Some fixed assumptions for generating the bill : 
+* Basic Pizza : $300 (Veg)
+* Basic Pizza : $400 (Non-Veg)
+A customer will have the choice of adding extra cheese or extra toppings.
+The charges for adding extra cheese is $50 and for extra toppings is $100
+Take away costs about $80.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+*Deluxe Pizza : 
+A deluxe pizza comes loaded with extra cheese and toppings. 
+Hence the customer will not have the choice of adding manually.
+However, the customer is capable of choosing betweeen dine-in or takeaway.
 
-## Folder Structure
+Finally, the bill is generated based on the preferred pizza customizations by the customer.
+🧑‍💻
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
-# Pizza_Bill_Generator
