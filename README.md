@@ -8,7 +8,7 @@ Take away costs about $80.
 
 *Deluxe Pizza : 
 A deluxe pizza comes loaded with extra cheese and toppings. 
-Hence the customer will not have the choice of adding manually.
+Hence the customer will not have the choice of adding them manually.
 However, the customer is capable of choosing betweeen dine-in or takeaway.
 
 Finally, the bill is generated based on the preferred pizza customizations by the customer.
